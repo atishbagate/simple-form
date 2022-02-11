@@ -1,5 +1,6 @@
 # simple-form
 
+intro -> in this project i have implemented vue routes and created a validation form using ajax as well as vee-validation plugin
 ## Project setup
 ```
 npm install
